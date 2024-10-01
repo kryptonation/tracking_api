@@ -144,6 +144,6 @@ class TrackingNumberAPITest(TestCase):
 ```
 
 ### Author
-- Your Name
-- Your Email
-- GitHub Profile
+- Your D R DILIP
+- Your dilip@kryptstreet.com
+- GitHub https://github.com/kryptonation
